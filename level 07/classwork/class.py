@@ -1,0 +1,7 @@
+first_number = int(input("write any number you want"))
+second_number = int(input("enter second number"))
+print(first_number//second_number)
+print(first_number + second_number)
+print(first_number - second_number)
+print(first_number / second_number)
+print(first_number * second_number)
