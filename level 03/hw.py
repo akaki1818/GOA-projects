@@ -1,0 +1,5 @@
+best_leader = ("shavadze")
+print(best_leader)
+best_academy = ("Goa")
+print("best_academy")
+best_mentor = ("gabriel molodini")
