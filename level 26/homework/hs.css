@@ -1,0 +1,10 @@
+html{
+    background-color: Black;
+}
+button{
+    background-color: chartreuse;
+    border-radius: 35px;
+    box-sizing: 25px;
+    height: auto;
+    width: 50;
+}
