@@ -1,0 +1,6 @@
+cars = input("tell us car that you want to buy")
+number = input("enter your number")
+gmail = input("enter your gmail")
+print (cars)
+print (number)
+print (gmail)
